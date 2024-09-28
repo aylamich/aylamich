@@ -5,4 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ayla micheluzzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayla micheluzzi" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/6BZrfZes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6BZrfZes" height="30" width="40" /></a>
 </p>
