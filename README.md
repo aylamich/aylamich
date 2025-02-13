@@ -1,8 +1,7 @@
 
  ##  <div align="center"> 👋 Hi! I’m `@aylamich`, welcome to my `GitHub profile`.</div>
 
-
-![github-header-image](headergithub.jng)
+![github-header-image](headergithub.jpg)
  
   <br>
   
