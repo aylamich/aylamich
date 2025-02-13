@@ -1,4 +1,6 @@
 <h1 align="center">Hi 🍥, I'm Ayla</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A5B9&width=435&separator=%3C&lines=print(%22Hello%2C+World!%22)%3Cconsole.log(%22Welcome+to+my+README%22)%3C+System.out.println(%22Code+%26+coffee%22);%3CSELECT+*+FROM+developers+WHERE+name+%3D+'Ayla';)](https://git.io/typing-svg)
+
 <h3 align="center">I’m an Information Systems undergraduate at PUCPR, but my journey in tech began long before university. I specialize in backend development and taught myself Python as my first programming language. My areas of interest include Web3.0, Blockchain, Dapp, Artificial Intelligence and Games. I’m constantly working to expand my knowledge in these fields. I love studying, helping my peers with their questions, and learning more in the process. My hobbies include gaming, philosophy, and discovering new coffee shops. I’m a calm and sociable person who values teamwork and synergy. Every day, I push myself to grow, staying committed to learning and driven by my passion for technology. ;)</h3>
 
 - 📫 How to reach me [*aylamick@gmail.com*](mailto:aylamick@gmail.com)
