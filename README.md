@@ -10,21 +10,30 @@
 
 <div>
    <img align="right" alt="aylamich" width="230" height="230" src="https://i.pinimg.com/736x/e5/b2/a6/e5b2a6ac1774042b3cea1a6bbfe863f9.jpg">
-- 🎓 I’m an **Information Systems** at **PUCPR**.  
-- 🚀 My tech journey **started before university**.  
-- 💻 I have **basic knowledge in both backend and frontend** development.  
+ 
+- 🎓 I’m an **Information Systems** at **PUCPR**.
+  
+- 🚀 My tech journey **started before university**.
+   
+- 💻 I have **basic knowledge in both backend and frontend** development.
+  
 - 💡 My areas of interest:  
   - Web3.0  
   - Blockchain   
   - Artificial Intelligence  
-  - Games  
-- 📚 Always **expanding my knowledge** in these fields.  
-- 🤝 Love **helping peers** and learning in the process.  
+  - Games
+    
+- 📚 Always **expanding my knowledge** in these fields.
+   
+- 🤝 Love **helping peers** and learning in the process.
+   
 - 🎮 Hobbies:  
   - Gaming  
   - Philosophy  
-  - Discovering new coffee shops ☕  
-- 🧘 **Calm and sociable**, value teamwork and synergy.  
+  - Discovering new coffee shops ☕
+    
+- 🧘 **Calm and sociable**, value teamwork and synergy.
+    
 - 🔥 **Passionate about technology**, committed to **constant learning and growth**.  
 </div>
 
@@ -35,7 +44,7 @@
   <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind"/>
+             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=FF8DA6" alt="Tailwind"/>
             <br>Tailwind 
         </td>
         <td align="center">
