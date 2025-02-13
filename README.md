@@ -44,7 +44,7 @@
   <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind"/>
+            <img src="https://img.icons8.com/color/48/tailwindcss.png" width="48" alt="Tailwind"/>
             <br>Tailwind 
         </td>
         <td align="center">
