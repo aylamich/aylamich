@@ -5,7 +5,7 @@
  
   <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A5B9&width=435&separator=%3C&lines=print(%22Hello%2C+World!%22)%3Cconsole.log(%22Welcome+to+my+README%22)%3C+System.out.println(%22Code+%26+coffee%22);%3CSELECT+*+FROM+developers+WHERE+name+%3D+'Ayla';" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A5B9&width=435&separator=%3C&lines=print(%22Hello%2C+World!%22)%3Cconsole.log(%22Welcome+to+my+README%22)%3C+System.out.println(%22Code+%26+coffee%22);%3CSELECT+*+FROM+developers+WHERE+name+%3D+'Ayla'; />
 </a>
 
 <div>
@@ -44,7 +44,7 @@
   <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=FF8DA6" alt="Tailwind"/>
+             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind"/>
             <br>Tailwind 
         </td>
         <td align="center">
