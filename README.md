@@ -1,10 +1,14 @@
-# Hi 🍥, I'm Ayla
+# Hi ☁️, I'm Ayla
+
+<div align="left">
+  <img src="https://cdn.discordapp.com/attachments/1300955479278882857/1412466489100865608/766055A8-661F-458E-811A-C9FDC40E2876.jpeg?ex=68b8656d&is=68b713ed&hm=8ea7d4e10f60a924b7934ebbf05e7af2c1f073b29842170caa32c6812446ae57&" height="200" alt="Imagem personalizada" />
+</div>
 
 <div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=550&lines=Welcome+to+my+GitHub+page!" alt="Typing SVG" /></a>
 </div>
 
-<img align="right" height="300" src="https://media1.tenor.com/m/MKvX_qr8RmYAAAAd/computer-pusheen.gif" />
+<img align="right" height="300" src="https://media1.tenor.com/m/MKvX_qr8RmYAAAAd/computer-pusheen.gif" alt="Gato Pusheen digitando no computador" />
 
 I'm an Information Systems undergraduate at PUCPR, but my journey in tech started long before university. I have basic knowledge in both frontend and backend development, but I’m especially passionate about frontend because of its creative potential. My main interests include Web3.0, Blockchain, Dapps, Artificial Intelligence, and Games. I’m constantly exploring new technologies and deepening my skills, driven by curiosity and the desire to create new things. In my free time, I enjoy gaming, studying philosophy, and discovering new coffee shops. I'm a calm and curious person, always eager to learn and grow in the tech world. :)
 
