@@ -1,7 +1,7 @@
 # Hi ☁️, I'm Ayla
 
 <div align="left">
-  <img src="https://cdn.discordapp.com/attachments/1300955479278882857/1412466489100865608/766055A8-661F-458E-811A-C9FDC40E2876.jpeg?ex=68b8656d&is=68b713ed&hm=8ea7d4e10f60a924b7934ebbf05e7af2c1f073b29842170caa32c6812446ae57&" height="200" alt="Imagem personalizada" />
+  <img src="https://github.com/user-attachments/assets/d61e8107-a7c9-4c8a-a8dd-4bc9f57a1639" height="200" alt="Imagem personalizada" />
 </div>
 
 <div align="left">
