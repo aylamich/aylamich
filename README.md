@@ -33,6 +33,4 @@ I'm an Information Systems undergraduate at PUCPR, but my journey in tech starte
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="tailwindcss logo"/>
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aylamich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
