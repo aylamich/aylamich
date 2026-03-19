@@ -10,7 +10,7 @@
 
 <img align="right" height="300" src="https://media1.tenor.com/m/MKvX_qr8RmYAAAAd/computer-pusheen.gif" alt="Gato Pusheen digitando no computador" />
 
-I'm an Information Systems undergraduate at PUCPR, but my journey in tech started long before university. I have basic knowledge in both frontend and backend development, but I’m especially passionate about frontend because of its creative potential. My main interests include Web3.0, Blockchain, Dapps, Artificial Intelligence, and Games. I’m constantly exploring new technologies and deepening my skills, driven by curiosity and the desire to create new things. In my free time, I enjoy gaming, studying philosophy, and discovering new coffee shops. I'm a calm and curious person, always eager to learn and grow in the tech world. :)
+I'm an Information Systems undergraduate at PUCPR, but my journey in tech started long before university. I've always been passionate about technology and games, which naturally led me to this field. I work with both frontend and backend development, and I really enjoy the creative side of building projects, especially when turning ideas into something visual and functional. I also have experience with databases, APIs, and automation, focusing on building simple and well-structured solutions. My main interests include Web3, Blockchain, Artificial Intelligence, and Software Architecture. I'm always exploring new technologies and trying to improve my logic, critical thinking, and overall knowledge. In my free time, I enjoy gaming, studying philosophy, discovering new coffee shops, and exploring new things, whether in tech, art, or just something different :)
 
 - 📫 How to reach me [*aylamick@gmail.com*](mailto:aylamick@gmail.com)
 
