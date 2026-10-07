@@ -38,7 +38,7 @@ I'm an Information Systems student at PUCPR, but my journey in tech started long
   <img src="https://img.shields.io/badge/Python-808080?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="./divider.svg" width="100%" alt="divisória" />
-</p>
 
+<p align="center">
+  <img src="./office.svg" width="100%" alt="mini escritório pixel art com gatinho dormindo" />
+</p>
