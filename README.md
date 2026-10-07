@@ -42,6 +42,3 @@ I'm an Information Systems student at PUCPR, but my journey in tech started long
   <img src="./divider.svg" width="100%" alt="divisória" />
 </p>
 
-<p align="center">
-  <img src="./cat-runner.svg" width="100%" alt="gatinho pixel correndo e pulando xícaras de café" />
-</p>
